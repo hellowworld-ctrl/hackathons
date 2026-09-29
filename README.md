@@ -56,6 +56,19 @@ crush-depth: the deep-dive slot on the personal-site roster.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎸 Music Band AI
+a band of ai musicians, one agent per instrument.
+first member: the guitarist. song plan in → playable guitar midi + tab out.
+
+[📁 folder](./music-band-ai)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22d3ee,100:0b0a12&section=footer" width="100%"/>

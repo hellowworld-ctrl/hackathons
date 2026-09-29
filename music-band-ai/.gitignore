@@ -1,0 +1,4 @@
+out/
+*.wav
+__pycache__/
+.pytest_cache/

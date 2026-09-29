@@ -1,0 +1,24 @@
+{
+  "title": "Rainy Window",
+  "tempo": 84,
+  "time_signature": [4, 4],
+  "key": "G major",
+  "style": "acoustic pop ballad",
+  "mood": "warm, wistful, hopeful by the chorus",
+  "feel": "straight",
+  "sections": [
+    {"name": "intro", "start_bar": 1, "bars": 4, "energy": 0.3},
+    {"name": "verse", "start_bar": 5, "bars": 8, "energy": 0.5},
+    {"name": "chorus", "start_bar": 13, "bars": 8, "energy": 0.85},
+    {"name": "outro", "start_bar": 21, "bars": 4, "energy": 0.35}
+  ],
+  "chords": [
+    "G", "Em", "C", "D",
+    "G", "Em", "C", "D",
+    "G", "Em", "C", "D",
+    "C", "G", "D", "Em",
+    "C", "G", "Am7", "D",
+    "G", "Em", "C D", "G"
+  ],
+  "guitar_brief": "You are the only harmony instrument besides bass. Intro should be sparse and ringing; build into a confident strummed chorus."
+}

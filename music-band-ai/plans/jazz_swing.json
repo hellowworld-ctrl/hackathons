@@ -1,0 +1,15 @@
+{
+  "title": "Blue Corner",
+  "tempo": 120,
+  "time_signature": [4, 4],
+  "key": "F major",
+  "style": "medium swing jazz",
+  "mood": "relaxed, late-night club",
+  "feel": "swing",
+  "chords": [
+    "F7", "Bb7", "F7", "F7",
+    "Bb7", "Bb7", "F7", "D7",
+    "Gm7", "C7", "F7 D7", "Gm7 C7"
+  ],
+  "guitar_brief": "Comping behind a horn melody: short, light, swinging chords in the middle register. Stay out of the soloist's way."
+}

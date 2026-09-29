@@ -1,0 +1,174 @@
+{
+  "tone": "overdrive",
+  "tuning": "standard",
+  "description": "Palm-muted power-chord verse, an open-string lick into a wide-open strummed chorus, B7 turnaround with vibrato.",
+  "events": [
+    {
+      "type": "strum_pattern",
+      "bars": [
+        1,
+        7
+      ],
+      "subdivision": 2,
+      "pattern": "DDDDDDDD",
+      "articulation": "palm_mute",
+      "velocity": 92,
+      "shapes": {
+        "Em": [
+          0,
+          2,
+          2,
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          3,
+          5,
+          5,
+          null,
+          null
+        ],
+        "D": [
+          null,
+          5,
+          7,
+          7,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        8,
+        8
+      ],
+      "subdivision": 2,
+      "pattern": "DDDD....",
+      "articulation": "palm_mute",
+      "velocity": 96,
+      "shapes": {
+        "D": [
+          null,
+          5,
+          7,
+          7,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "note",
+      "bar": 8,
+      "beat": 3,
+      "string": 5,
+      "fret": 0,
+      "duration": 0.5,
+      "velocity": 100
+    },
+    {
+      "type": "note",
+      "bar": 8,
+      "beat": 3.5,
+      "string": 5,
+      "fret": 2,
+      "duration": 0.5,
+      "velocity": 100,
+      "technique": "hammer_on"
+    },
+    {
+      "type": "note",
+      "bar": 8,
+      "beat": 4,
+      "string": 4,
+      "fret": 0,
+      "duration": 0.5,
+      "velocity": 104
+    },
+    {
+      "type": "note",
+      "bar": 8,
+      "beat": 4.5,
+      "string": 4,
+      "fret": 2,
+      "duration": 0.5,
+      "velocity": 108,
+      "technique": "slide",
+      "slide_from": 0
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        9,
+        15
+      ],
+      "subdivision": 2,
+      "pattern": "D.DU.UDU",
+      "velocity": 106,
+      "shapes": {
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          3,
+          3
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "strum",
+      "bar": 16,
+      "beat": 1,
+      "frets": [
+        null,
+        2,
+        1,
+        2,
+        0,
+        2
+      ],
+      "direction": "down",
+      "duration": 3,
+      "velocity": 112
+    },
+    {
+      "type": "note",
+      "bar": 16,
+      "beat": 4,
+      "string": 3,
+      "fret": 4,
+      "duration": 1,
+      "velocity": 100,
+      "technique": "vibrato"
+    }
+  ]
+}

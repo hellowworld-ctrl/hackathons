@@ -1,0 +1,20 @@
+{
+  "title": "Night Drive",
+  "tempo": 132,
+  "time_signature": [4, 4],
+  "key": "E minor",
+  "style": "alternative rock",
+  "mood": "driving, restless, big chorus",
+  "feel": "straight",
+  "sections": [
+    {"name": "verse", "start_bar": 1, "bars": 8, "energy": 0.45},
+    {"name": "chorus", "start_bar": 9, "bars": 8, "energy": 0.95}
+  ],
+  "chords": [
+    "Em", "Em", "C", "D",
+    "Em", "Em", "C", "D",
+    "G", "D", "Em", "C",
+    "G", "D", "C", "B7"
+  ],
+  "guitar_brief": "Rhythm guitar with drums and bass. Tight palm-muted verse, open and loud chorus, a short lick into the chorus."
+}

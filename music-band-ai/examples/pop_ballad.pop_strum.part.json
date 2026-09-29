@@ -1,0 +1,207 @@
+{
+  "tone": "acoustic_steel",
+  "tuning": "standard",
+  "description": "offline 'pop_strum' part: acoustic strumming, open chords, D.DU.UDU",
+  "events": [
+    {
+      "type": "strum_pattern",
+      "bars": [
+        1,
+        4
+      ],
+      "subdivision": 2,
+      "pattern": "D...D.U.",
+      "velocity": 77,
+      "shapes": {
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        5,
+        12
+      ],
+      "subdivision": 2,
+      "pattern": "D.DU.UDU",
+      "velocity": 82,
+      "shapes": {
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        13,
+        20
+      ],
+      "subdivision": 2,
+      "pattern": "DUDUDUDU",
+      "velocity": 91,
+      "shapes": {
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          0
+        ],
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "Am7": [
+          null,
+          0,
+          2,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        21,
+        23
+      ],
+      "subdivision": 2,
+      "pattern": "D...D.U.",
+      "velocity": 78,
+      "shapes": {
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "type": "strum",
+      "bar": 24,
+      "beat": 1,
+      "duration": 4,
+      "frets": [
+        3,
+        2,
+        0,
+        0,
+        0,
+        3
+      ],
+      "direction": "down",
+      "velocity": 95
+    }
+  ]
+}

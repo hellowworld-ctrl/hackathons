@@ -1,0 +1,76 @@
+{
+  "tone": "electric_jazz",
+  "tuning": "standard",
+  "description": "offline 'jazz_comp' part: swung Charleston comping with compact shell voicings",
+  "events": [
+    {
+      "type": "strum_pattern",
+      "bars": [
+        1,
+        11
+      ],
+      "subdivision": 2,
+      "pattern": "D..u....",
+      "velocity": 72,
+      "articulation": "palm_mute",
+      "shapes": {
+        "F7": [
+          null,
+          null,
+          3,
+          5,
+          4,
+          5
+        ],
+        "Bb7": [
+          6,
+          5,
+          6,
+          3,
+          null,
+          null
+        ],
+        "D7": [
+          null,
+          null,
+          0,
+          5,
+          3,
+          2
+        ],
+        "Gm7": [
+          3,
+          5,
+          3,
+          3,
+          null,
+          null
+        ],
+        "C7": [
+          null,
+          3,
+          5,
+          3,
+          5,
+          null
+        ]
+      }
+    },
+    {
+      "type": "strum",
+      "bar": 12,
+      "beat": 1,
+      "duration": 4,
+      "frets": [
+        3,
+        5,
+        3,
+        3,
+        null,
+        null
+      ],
+      "direction": "down",
+      "velocity": 95
+    }
+  ]
+}

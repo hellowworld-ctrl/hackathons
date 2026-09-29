@@ -1,0 +1,113 @@
+{
+  "tone": "distortion",
+  "tuning": "standard",
+  "description": "offline 'rock_power' part: overdriven power chords, palm-muted eighths in quiet sections",
+  "events": [
+    {
+      "type": "strum_pattern",
+      "bars": [
+        1,
+        8
+      ],
+      "subdivision": 2,
+      "pattern": "DDDDDDDD",
+      "articulation": "palm_mute",
+      "velocity": 93,
+      "shapes": {
+        "Em": [
+          0,
+          2,
+          2,
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          3,
+          5,
+          null,
+          null,
+          null
+        ],
+        "D": [
+          null,
+          5,
+          7,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "strum_pattern",
+      "bars": [
+        9,
+        15
+      ],
+      "subdivision": 2,
+      "pattern": "DDDDDDDD",
+      "articulation": "normal",
+      "velocity": 108,
+      "shapes": {
+        "G": [
+          3,
+          5,
+          5,
+          null,
+          null,
+          null
+        ],
+        "D": [
+          null,
+          5,
+          7,
+          null,
+          null,
+          null
+        ],
+        "Em": [
+          0,
+          2,
+          2,
+          null,
+          null,
+          null
+        ],
+        "C": [
+          null,
+          3,
+          5,
+          null,
+          null,
+          null
+        ],
+        "B7": [
+          null,
+          2,
+          4,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "strum",
+      "bar": 16,
+      "beat": 1,
+      "duration": 4,
+      "frets": [
+        null,
+        2,
+        4,
+        null,
+        null,
+        null
+      ],
+      "direction": "down",
+      "velocity": 95
+    }
+  ]
+}
