@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=680&lines=BrainWave+AI;Momentum.AI;Pantri;Helix;Crush-Depth" alt="projects typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=680&lines=BrainWave+AI;Momentum.AI;Pantri;Pendant;Helix;Crush-Depth" alt="projects typing"/>
 </p>
 
 this is the hackathon drawer. drop source into the project folders or keep this as the index and link out.
@@ -53,6 +53,18 @@ helix: compression + reconstruction experiments.
 crush-depth: the deep-dive slot on the personal-site roster.
 
 [📁 helix](./helix) · [📁 crush-depth](./crush-depth)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎹 Pendant
+a band of ai agents writes a song → midi.
+composer, drums, bass, chords, melody. a validator checks every bar, a critic sends bars back.
+five demo songs: lo-fi, ambient, pop, rock, jazz.
+
+[💻 repo](https://github.com/Pranjal101Shrivastava/pendant_music/tree/codex/complete-pendant) · [🎵 outputs](https://github.com/Pranjal101Shrivastava/pendant_music/tree/codex/complete-pendant/outputs) · [📁 folder](./pendant)
 
 </td>
 </tr>
